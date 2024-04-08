@@ -1,8 +1,7 @@
 Welcome to MEANING
 
-IMSAID: 123192
+Author: Jason Qin
 Date: March 1, 2023
-Creation: Created for Quarter 3 project for IMSA CS Seminar: Linux and Cybersecurities
 Purpose: MEANING is a piece of interactive fiction and command line story that requires user input. Based on the input, the program will take different paths and open various files in the directory, which will perform various tasks. Every line in the story is based on a color and has differing endings based on the paths you choose. The colors incorporated also match the hall colors for the 2023 IMSA Clash of the Halls!
 
 Instructions to run:
