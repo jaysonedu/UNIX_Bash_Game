@@ -8,7 +8,7 @@ printf "${PINK}"
 
 figlet "PINK"
 
-# This is a cool chapter that should feel different if you're coming from PINK (obstacle to dragon) or BLUE (dragon to obstacle)
+# This is a cool chapter that should feel different if you're coming from VIOLET (obstacle to dragon) or BLUE (dragon to obstacle)
 
 echo "You prepare to fight the obstacle in front of you. A materialization of all the obstacles in your life. The dragon."
 read ENTER
