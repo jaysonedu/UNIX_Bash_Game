@@ -30,8 +30,3 @@ Whenever a pop-up window/tab is opened from the program, feel free to interact w
 
 References:
 Adam Cadre (1998), Photopia, https://ifdb.org/viewgame?id=ju778uv5xaswnlpl
-Victor Mendonça (March 10 2019), Colorful Banners With figlet and lolcat, https://blog.victormendonca.com/2019/03/10/colorful-banners-with-figlet-and-lolcat/
-Jason B (December 4, 2018), Have a cow at the Linux command line, https://opensource.com/article/18/12/linux-toy-cowsay
-Deepesh Sharma (Nov 1, 2022), 11 Fun Linux Command-Line Programs You Should Try When Bored, https://www.makeuseof.com/fun-linux-command-line-programs/
-User: rahulkumarmandal (May 24, 2019), xdg-open command in Linux with Examples, https://www.geeksforgeeks.org/xdg-open-command-in-linux-with-examples/
-Haoyi Li (July 2, 2016), Build your own Command Line with ANSI escape codes, https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html
