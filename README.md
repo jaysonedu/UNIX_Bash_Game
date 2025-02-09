@@ -10,7 +10,7 @@ Purpose: MEANING is a piece of interactive fiction and command line story that r
 
 Instructions to run:
 
-Install the followig programs with sudo apt-get install [program] to run MEANING:
+Install the followig programs with sudo apt-get install
 lolcat
 toilet
 cowsay
