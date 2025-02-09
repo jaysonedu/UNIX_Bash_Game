@@ -17,7 +17,6 @@ cowsay
 sl
 libaa-bin
 figlet
-xdg-open
 imagemagick"
 
 To start the program, make sure you are in the 'UNIX_BASH_GAME' directory and type 'bash START.sh' in the terminal.
