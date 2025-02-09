@@ -10,7 +10,7 @@ Purpose: MEANING is a piece of interactive fiction and command line story that r
 
 Instructions to run:
 
-Install the followig programs with sudo apt-get install
+Install the followig programs with "sudo apt-get install
 lolcat
 toilet
 cowsay
@@ -18,7 +18,7 @@ sl
 libaa-bin
 figlet
 xdg-open
-imagemagick
+imagemagick"
 
 To start the program, make sure you are in the 'UNIX_BASH_GAME' directory and type 'bash START.sh' in the terminal.
 
